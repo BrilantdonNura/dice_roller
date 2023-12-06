@@ -30,7 +30,7 @@ class _DiceRollerState extends State<DiceRoller> {
               end: Alignment.bottomRight)),
       child: Center(
         child: Container(
-          color: const Color.fromARGB(39, 0, 0, 0),
+          color: Color.fromARGB(0, 0, 0, 0),
           child: Column(
             mainAxisSize: MainAxisSize.min,
             mainAxisAlignment: MainAxisAlignment.center,
