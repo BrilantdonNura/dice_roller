@@ -8,5 +8,4 @@ This is just a dice that
 you can roll, to get a 
 random number from 1 to 6
 
-![GitHub Logo](https://github.com/BrilantdonNura/dice_roller/blob/main/assets/images/screenShots/ScreenShot1.png)
-
+<img src="https://github.com/BrilantdonNura/dice_roller/blob/main/assets/images/screenShots/ScreenShot1.png" width="300" height="200" alt="Alt text">
